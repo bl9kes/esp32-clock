@@ -20,20 +20,6 @@ The clock shows:
 * Humidity
 * Weather description
 
-Example display layout:
-
-```
---------------------------
-|        3:42 PM         |
-|      Thu, Feb 19th     |
-|                        |
-| 14°C                   |
-| Humidity: 72%          |
-| Light Rain             |
-|               (icon)   |
---------------------------
-```
-
 ## Device
 
 <p align="center">
@@ -144,12 +130,10 @@ onto the **ILI9341 TFT display using SPI communication**.
 | ESP32-S3 Development Board | 1        | $8 – $15     |
 | ILI9341 2.4" TFT Display   | 1        | $6 – $10     |
 | Jumper Wires               | ~10      | $3           |
-| Breadboard                 | 1        | $3           |
-| USB Cable                  | 1        | $5           |
 
 Total project cost:
 
-**≈ $25 – $40**
+**≈ $17 – $28**
 
 ---
 
