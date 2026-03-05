@@ -36,15 +36,12 @@ Example display layout:
 
 ## Device
 
-Add photos here:
+<p align="center">
+<img src="images/clock_front_1.jpg" width="300">
+<img src="images/clock_front_2.jpg" width="300">
+<img src="images/clock_internals.jpg" width="300">
+</p>
 
-```
-![Clock Front 1](images/clock_front_1.jpg)
-
-![Clock Front 2](images/clock_front_2.jpg)
-
-![3D Printed Enclosure](images/clock_internals.jpg)
-```
 
 ---
 
