@@ -22,16 +22,16 @@
 Adafruit_ILI9341 tft(TFT_CS, TFT_DC, TFT_RST);
 
 // ===== WiFi =====
-const char* WIFI_SSID = "Blazelton Pl";
-const char* WIFI_PASS = "hazelton123";
+const char* WIFI_SSID = "YOUR_WIFI_NAME";
+const char* WIFI_PASS = "YOUR_WIFI_PASSWORD";
 
 // ===== Time (NTP) =====
 const char* NTP_SERVER = "pool.ntp.org";
 
 // ===== Weather (OpenWeather Current Weather API) =====
-const char* OWM_API_KEY = "65075dca0eec5fb9c43ddc3b35e2a2ca"; // to be hidden later
-const char* LAT = "48.47313001189578";
-const char* LON = "-123.30691458915048";
+const char* OWM_API_KEY = "YOUR_API_KEY"; // remember to hide this!
+const char* LAT = "48"; // Insert your coordinates here (Can get from good maps)
+const char* LON = "-123";
 const char* UNITS = "metric";    // "metric" or "imperial"
 
 // Refresh intervals
