@@ -263,7 +263,7 @@ Clock Lid v2.stl
 | Material     | PLA    |
 | Layer Height | 0.2mm  |
 | Infill       | 15–20% |
-| Supports     | None   |
+| Supports     | Auto   |
 
 Estimated print time:
 
@@ -278,15 +278,16 @@ Estimated print time:
 
 1. Print both STL files
 2. Insert the display into the front opening
+   2.1 Press fits into the enclosure
 3. Mount the ESP32 behind the display
-4. Connect the SPI wiring
+   3.1 Slide snuggly into the designed slot
+4. Connect the required wiring
 5. Close the enclosure with the lid
 
 Optional mounting methods:
 
-* hot glue
-* screws
-* double-sided tape
+* fasten the lid with screws
+* melt screen tabs to secure the display
 
 ---
 
