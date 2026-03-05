@@ -39,9 +39,11 @@ Example display layout:
 Add photos here:
 
 ```
-![Clock Front](images/front.jpg)
-![Internal Wiring](images/back.jpg)
-![3D Printed Enclosure](images/enclosure.jpg)
+![Clock Front 1](images/clock_front_1.jpg)
+
+![Clock Front 2](images/clock_front_2.jpg)
+
+![3D Printed Enclosure](images/clock_internals.jpg)
 ```
 
 ---
